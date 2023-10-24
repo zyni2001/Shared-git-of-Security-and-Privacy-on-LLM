@@ -1,4 +1,4 @@
-1. Reading list
+1. Privacy 
 
 https://openreview.net/pdf?id=6JcbNMEFPw
 ‘LARGE LANGUAGE MODELS CAN BE GOOD PRIVACY PROTECTION LEARNERS’ (Zhiyu)
@@ -8,4 +8,10 @@ https://openreview.net/attachment?id=kmn0BhQk7p&name=pdf
 
 https://openreview.net/attachment?id=3TAhlGaMKD&name=pdf
 ‘LAST ONE STANDING: A COMPARATIVE ANALYSIS OF SECURITY AND PRIVACY OF SOFT PROMPT TUNING, LORA, AND IN-CONTEXT LEARNING’ (Subhajit)
+
+2. Red teaming
+
+https://arxiv.org/pdf/2202.03286.pdf
+'Red Teaming Language Models with Language Models'
+
 
